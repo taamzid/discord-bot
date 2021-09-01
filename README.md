@@ -1,5 +1,5 @@
 # discord-bot
-A discord bot that will assist friends of my server when I am offline. I have used zen quotes API to generate random quotes.
+A discord bot that will assist friends of my server when I am offline. I have used python to build this and zen quotes API to generate random quotes. Using the flask web server, made this bot always active.
 
 !screenshot
 
