@@ -1,11 +1,13 @@
 # discord-bot
 A discord bot that will assist friends of my server when I am offline. I have used zen quotes API to generate random quotes.
 
-!screenshots
+!screenshot
+
+
+![first - Copy](https://user-images.githubusercontent.com/47922615/131702588-e2607a44-5b62-4f20-8f75-3dd6f1ac80d1.PNG)
 
 
 
-![first - Copy](https://user-images.githubusercontent.com/47922615/131702498-5caa7447-8c57-41f6-b3f6-485fc7f58be3.PNG)
 
 
 
